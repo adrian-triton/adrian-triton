@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my [RHX]([URL](https://rowdyhacks.org/)) project
 - 🌱 I’m currently studying for CompTIA CySA+
+- 😄 Certifications: CompTIA Sec+
 - ⚡ Fun fact: Coach for UTSA COD
 
 <!--
